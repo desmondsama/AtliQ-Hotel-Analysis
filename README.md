@@ -1,7 +1,5 @@
 # AtliQ-Hotel-Hospitality_analysis
 
-# Atiq Grands Hospitality Analysis
-
 ## Table of Contents
 
 - [Introduction](#introduction)
