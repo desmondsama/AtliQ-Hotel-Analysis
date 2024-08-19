@@ -13,6 +13,8 @@
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
+### Video presentation: https://youtu.be/eiwXj2FIGJM
+
 ## Introduction
 
 Welcome to the Atiq Grands Hospitality Analysis project! This project aims to provide valuable insights into the hospitality industry, focusing on Atliq Grands—a prominent hotel chain operating in multiple Indian cities. Through data analysis and visualization, we strive to address the challenge of declining revenue and market share, ultimately helping Atliq Grands make data-informed decisions to enhance its financial performance.
